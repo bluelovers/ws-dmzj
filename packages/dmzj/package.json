@@ -1,0 +1,22 @@
+{
+  "name": "dmzj",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "coverage": "npx nyc npm run test",
+    "ncu": "npx npm-check-updates -u",
+    "prepublishOnly": "npm run ncu && npm run sort-package-json && npm run test",
+    "sort-package-json": "npx sort-package-json ./package.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/bluebird": "^3.5.26",
+    "bluebird": "^3.5.4",
+    "route-parser": "^0.0.5",
+    "ts-check": "^0.2.4",
+    "ts-rest-client2": "^1.1.1"
+  }
+}
