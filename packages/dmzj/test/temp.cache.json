@@ -1,0 +1,2527 @@
+{
+	"http://v2.api.dmzj.com/novel/recentUpdate/undefined.json?": {
+		"expires": 1557671854036,
+		"data": {
+			"status": 200,
+			"statusText": "OK",
+			"headers": {
+				"server": "YunFanCDN",
+				"date": "Sun, 12 May 2019 14:22:37 GMT",
+				"content-type": "application/json",
+				"transfer-encoding": "chunked",
+				"connection": "close",
+				"x-cdn-reqid": "AEyxkCGPuDNgsLRAAa",
+				"expires": "Sun, 12 May 2019 14:52:36 GMT",
+				"cache-control": "max-age=1800",
+				"accept-ranges": "bytes",
+				"vary": "Accept-Encoding",
+				"oct-response-info": "1000010000100001000820008200001",
+				"yf-id": "ajszj1u005207p, ajsyzab009198k",
+				"oct-upstream": "118.89.211.163,222.186.170.158",
+				"oct-orig-content-length": "9301"
+			},
+			"data": [
+				{
+					"id": 2249,
+					"status": "连载中",
+					"name": "弱气角色友崎君",
+					"authors": "屋久ユウキ",
+					"cover": "https://xs.dmzj.com/img/webpic/24/rq1213l.jpg",
+					"types": [
+						"校园"
+					],
+					"last_update_chapter_id": 96013,
+					"last_update_volume_id": 10078,
+					"last_update_volume_name": "第七卷",
+					"last_update_chapter_name": "6.妖精在泉水外孤单一人也会感到寂寞",
+					"last_update_time": 1557666501
+				},
+				{
+					"id": 2134,
+					"status": "连载中",
+					"name": "异世界拷问姬",
+					"authors": "绫里惠史",
+					"cover": "https://xs.dmzj.com/img/webpic/26/ysjkwj5353l.jpg",
+					"types": [
+						"冒险",
+						"魔法"
+					],
+					"last_update_chapter_id": 96012,
+					"last_update_volume_id": 10106,
+					"last_update_volume_name": "第7.5卷",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557655150
+				},
+				{
+					"id": 2192,
+					"status": "连载中",
+					"name": "妖怪旅馆营业中",
+					"authors": "友麻碧",
+					"cover": "https://xs.dmzj.com/img/webpic/9/ygldyyz0907l.jpg",
+					"types": [
+						"神鬼"
+					],
+					"last_update_chapter_id": 95991,
+					"last_update_volume_id": 10105,
+					"last_update_volume_name": "第八卷 雪之国度的珍味奇景",
+					"last_update_chapter_name": "后记",
+					"last_update_time": 1557654589
+				},
+				{
+					"id": 2508,
+					"status": "连载中",
+					"name": "继母的拖油瓶是我的前女友",
+					"authors": "纸城境介",
+					"cover": "https://xs.dmzj.com/img/webpic/6/jm0409l.jpg",
+					"types": [
+						"爱情",
+						"校园"
+					],
+					"last_update_chapter_id": 95976,
+					"last_update_volume_id": 9587,
+					"last_update_volume_name": "web版22-50试看",
+					"last_update_chapter_name": "第41话",
+					"last_update_time": 1557588391
+				},
+				{
+					"id": 2172,
+					"status": "连载中",
+					"name": "29与JK ～社令难违牵手女高中生～",
+					"authors": "裕时悠示",
+					"cover": "https://xs.dmzj.com/img/webpic/0/slnwqsngzs6563l.jpg",
+					"types": [
+						"爱情"
+					],
+					"last_update_chapter_id": 95975,
+					"last_update_volume_id": 10063,
+					"last_update_volume_name": "第五卷 无法忘却的模样",
+					"last_update_chapter_name": "第六章",
+					"last_update_time": 1557588346
+				},
+				{
+					"id": 2419,
+					"status": "连载中",
+					"name": "只要长得可爱，即使是变态你也喜欢吗？",
+					"authors": "花间灯",
+					"cover": "https://xs.dmzj.com/img/webpic/0/bt1217l.jpg",
+					"types": [
+						"校园",
+						"爱情"
+					],
+					"last_update_chapter_id": 95973,
+					"last_update_volume_id": 10104,
+					"last_update_volume_name": "第五卷",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557489729
+				},
+				{
+					"id": 2664,
+					"status": "连载中",
+					"name": "茶花女的纯真之歌",
+					"authors": "古宫九时",
+					"cover": "https://xs.dmzj.com/img/webpic/17/chn0510l.jpg",
+					"types": [
+						"励志"
+					],
+					"last_update_chapter_id": 95961,
+					"last_update_volume_id": 10103,
+					"last_update_volume_name": "第一卷",
+					"last_update_chapter_name": "后记",
+					"last_update_time": 1557467372
+				},
+				{
+					"id": 2663,
+					"status": "连载中",
+					"name": "我们不懂察言观色",
+					"authors": "镜银钵",
+					"cover": "https://xs.dmzj.com/img/webpic/9/cy0509l.jpg",
+					"types": [
+						"校园"
+					],
+					"last_update_chapter_id": 95950,
+					"last_update_volume_id": 10102,
+					"last_update_volume_name": "第二卷",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557466811
+				},
+				{
+					"id": 2662,
+					"status": "连载中",
+					"name": "六号月台迎来春天，而你将在今天离去。",
+					"authors": "大泽めぐみ",
+					"cover": "https://xs.dmzj.com/img/webpic/2/6y0509l.jpg",
+					"types": [
+						"校园"
+					],
+					"last_update_chapter_id": 95930,
+					"last_update_volume_id": 10100,
+					"last_update_volume_name": "第一卷",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557466155
+				},
+				{
+					"id": 2661,
+					"status": "连载中",
+					"name": "食锈末世录",
+					"authors": "瘤久保慎司",
+					"cover": "https://xs.dmzj.com/img/webpic/11/st0509l.jpg",
+					"types": [
+						"冒险"
+					],
+					"last_update_chapter_id": 95922,
+					"last_update_volume_id": 10099,
+					"last_update_volume_name": "第一卷",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557465765
+				},
+				{
+					"id": 2660,
+					"status": "连载中",
+					"name": "自称F级的哥哥似乎要称霸以游戏分级的学园？",
+					"authors": "三河ごーすと",
+					"cover": "https://xs.dmzj.com/img/webpic/15/fji0509l.jpg",
+					"types": [
+						"校园"
+					],
+					"last_update_chapter_id": 95896,
+					"last_update_volume_id": 10098,
+					"last_update_volume_name": "第一卷",
+					"last_update_chapter_name": "后记",
+					"last_update_time": 1557392117
+				},
+				{
+					"id": 982,
+					"status": "连载中",
+					"name": "境界线上的地平线",
+					"authors": "川上稔",
+					"cover": "https://xs.dmzj.com/img/webpic/28/jj0306l.jpg",
+					"types": [
+						"科幻",
+						"爱情",
+						"校园"
+					],
+					"last_update_chapter_id": 95879,
+					"last_update_volume_id": 9986,
+					"last_update_volume_name": "外传 狼与魂",
+					"last_update_chapter_name": "最终章『银狼与觉醒』",
+					"last_update_time": 1557389016
+				},
+				{
+					"id": 2659,
+					"status": "连载中",
+					"name": "谁都可以暗中助攻讨伐魔王",
+					"authors": "槻影",
+					"cover": "https://xs.dmzj.com/img/",
+					"types": [
+						"异界",
+						"穿越",
+						"冒险"
+					],
+					"last_update_chapter_id": 95877,
+					"last_update_volume_id": 10097,
+					"last_update_volume_name": "第一卷",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557388886
+				},
+				{
+					"id": 2658,
+					"status": "连载中",
+					"name": "魔法师塔塔",
+					"authors": "うーぱー",
+					"cover": "https://xs.dmzj.com/img/webpic/19/tt0509l.jpg",
+					"types": [
+						"冒险",
+						"魔法"
+					],
+					"last_update_chapter_id": 95866,
+					"last_update_volume_id": 10096,
+					"last_update_volume_name": "第一卷",
+					"last_update_chapter_name": "转载信息",
+					"last_update_time": 1557388313
+				},
+				{
+					"id": 2061,
+					"status": "连载中",
+					"name": "转生成女性向游戏里尽是毁灭FLAG的反派千金了(转生恶役只好拔除破灭旗标)",
+					"authors": "山口悟",
+					"cover": "https://xs.dmzj.com/img/webpic/14/zhuansey6890l.jpg",
+					"types": [
+						"搞笑",
+						"后宫",
+						"异界",
+						"穿越"
+					],
+					"last_update_chapter_id": 95864,
+					"last_update_volume_id": 10068,
+					"last_update_volume_name": "第六卷",
+					"last_update_chapter_name": "电子书特典SS『卡塔丽娜的狸猫退治』",
+					"last_update_time": 1557388071
+				},
+				{
+					"id": 2246,
+					"status": "连载中",
+					"name": "究极初心者",
+					"authors": "田尾典丈",
+					"cover": "https://xs.dmzj.com/img/webpic/6/cxz1212l.jpg",
+					"types": [
+						"科幻"
+					],
+					"last_update_chapter_id": 95850,
+					"last_update_volume_id": 10095,
+					"last_update_volume_name": "第四卷 觉醒的妖精",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557311833
+				},
+				{
+					"id": 986,
+					"status": "连载中",
+					"name": "精灵使的剑舞",
+					"authors": "志瑞祐",
+					"cover": "https://xs.dmzj.com/img/webpic/5/151117dancel.jpg",
+					"types": [
+						"魔法",
+						"校园",
+						"格斗",
+						"后宫"
+					],
+					"last_update_chapter_id": 95842,
+					"last_update_volume_id": 10094,
+					"last_update_volume_name": "第二十卷 共鸣的圣魔剑",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557311533
+				},
+				{
+					"id": 1714,
+					"status": "连载中",
+					"name": "空战魔导士候补生的教官",
+					"authors": "诸星悠",
+					"cover": "https://xs.dmzj.com/img/webpic/27/kzmdshbsdjg6890l.jpg",
+					"types": [
+						"魔法",
+						"校园",
+						"后宫"
+					],
+					"last_update_chapter_id": 95827,
+					"last_update_volume_id": 10093,
+					"last_update_volume_name": "第十三卷",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557286518
+				},
+				{
+					"id": 2518,
+					"status": "连载中",
+					"name": "努力过头的世界最强武斗家，在魔法世界轻松过生活",
+					"authors": "わんこそば",
+					"cover": "https://xs.dmzj.com/img/webpic/24/wd0715l.jpg",
+					"types": [
+						"校园",
+						"后宫",
+						"异界",
+						"穿越"
+					],
+					"last_update_chapter_id": 95817,
+					"last_update_volume_id": 10092,
+					"last_update_volume_name": "第三卷",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557215225
+				},
+				{
+					"id": 2125,
+					"status": "连载中",
+					"name": "自称贤者弟子的贤者",
+					"authors": "りゅうせんひろつぐ",
+					"cover": "https://xs.dmzj.com/img/webpic/23/zcxzdzdxz68896l.jpg",
+					"types": [
+						"冒险",
+						"异界",
+						"穿越"
+					],
+					"last_update_chapter_id": 95805,
+					"last_update_volume_id": 10091,
+					"last_update_volume_name": "第二卷",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557214861
+				}
+			]
+		}
+	},
+	"http://v2.api.dmzj.com/novel/recentUpdate/0.json?": {
+		"expires": 1557675574426,
+		"data": {
+			"status": 200,
+			"statusText": "OK",
+			"headers": {
+				"server": "YunFanCDN",
+				"date": "Sun, 12 May 2019 15:24:36 GMT",
+				"content-type": "application/json",
+				"transfer-encoding": "chunked",
+				"connection": "close",
+				"x-cdn-reqid": "AEyxkCGPuDNg6tIAAI",
+				"expires": "Sun, 12 May 2019 15:54:36 GMT",
+				"cache-control": "max-age=1800",
+				"accept-ranges": "bytes",
+				"vary": "Accept-Encoding",
+				"oct-response-info": "1000000008300083001750028100001",
+				"yf-id": "ajszj1u000184p, ajsyzab009198k",
+				"oct-upstream": "118.89.211.163,222.186.170.184"
+			},
+			"data": [
+				{
+					"id": 2249,
+					"status": "连载中",
+					"name": "弱气角色友崎君",
+					"authors": "屋久ユウキ",
+					"cover": "https://xs.dmzj.com/img/webpic/24/rq1213l.jpg",
+					"types": [
+						"校园"
+					],
+					"last_update_chapter_id": 96013,
+					"last_update_volume_id": 10078,
+					"last_update_volume_name": "第七卷",
+					"last_update_chapter_name": "6.妖精在泉水外孤单一人也会感到寂寞",
+					"last_update_time": 1557666501
+				},
+				{
+					"id": 2134,
+					"status": "连载中",
+					"name": "异世界拷问姬",
+					"authors": "绫里惠史",
+					"cover": "https://xs.dmzj.com/img/webpic/26/ysjkwj5353l.jpg",
+					"types": [
+						"冒险",
+						"魔法"
+					],
+					"last_update_chapter_id": 96012,
+					"last_update_volume_id": 10106,
+					"last_update_volume_name": "第7.5卷",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557655150
+				},
+				{
+					"id": 2192,
+					"status": "连载中",
+					"name": "妖怪旅馆营业中",
+					"authors": "友麻碧",
+					"cover": "https://xs.dmzj.com/img/webpic/9/ygldyyz0907l.jpg",
+					"types": [
+						"神鬼"
+					],
+					"last_update_chapter_id": 95991,
+					"last_update_volume_id": 10105,
+					"last_update_volume_name": "第八卷 雪之国度的珍味奇景",
+					"last_update_chapter_name": "后记",
+					"last_update_time": 1557654589
+				},
+				{
+					"id": 2508,
+					"status": "连载中",
+					"name": "继母的拖油瓶是我的前女友",
+					"authors": "纸城境介",
+					"cover": "https://xs.dmzj.com/img/webpic/6/jm0409l.jpg",
+					"types": [
+						"爱情",
+						"校园"
+					],
+					"last_update_chapter_id": 95976,
+					"last_update_volume_id": 9587,
+					"last_update_volume_name": "web版22-50试看",
+					"last_update_chapter_name": "第41话",
+					"last_update_time": 1557588391
+				},
+				{
+					"id": 2172,
+					"status": "连载中",
+					"name": "29与JK ～社令难违牵手女高中生～",
+					"authors": "裕时悠示",
+					"cover": "https://xs.dmzj.com/img/webpic/0/slnwqsngzs6563l.jpg",
+					"types": [
+						"爱情"
+					],
+					"last_update_chapter_id": 95975,
+					"last_update_volume_id": 10063,
+					"last_update_volume_name": "第五卷 无法忘却的模样",
+					"last_update_chapter_name": "第六章",
+					"last_update_time": 1557588346
+				},
+				{
+					"id": 2419,
+					"status": "连载中",
+					"name": "只要长得可爱，即使是变态你也喜欢吗？",
+					"authors": "花间灯",
+					"cover": "https://xs.dmzj.com/img/webpic/0/bt1217l.jpg",
+					"types": [
+						"校园",
+						"爱情"
+					],
+					"last_update_chapter_id": 95973,
+					"last_update_volume_id": 10104,
+					"last_update_volume_name": "第五卷",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557489729
+				},
+				{
+					"id": 2664,
+					"status": "连载中",
+					"name": "茶花女的纯真之歌",
+					"authors": "古宫九时",
+					"cover": "https://xs.dmzj.com/img/webpic/17/chn0510l.jpg",
+					"types": [
+						"励志"
+					],
+					"last_update_chapter_id": 95961,
+					"last_update_volume_id": 10103,
+					"last_update_volume_name": "第一卷",
+					"last_update_chapter_name": "后记",
+					"last_update_time": 1557467372
+				},
+				{
+					"id": 2663,
+					"status": "连载中",
+					"name": "我们不懂察言观色",
+					"authors": "镜银钵",
+					"cover": "https://xs.dmzj.com/img/webpic/9/cy0509l.jpg",
+					"types": [
+						"校园"
+					],
+					"last_update_chapter_id": 95950,
+					"last_update_volume_id": 10102,
+					"last_update_volume_name": "第二卷",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557466811
+				},
+				{
+					"id": 2662,
+					"status": "连载中",
+					"name": "六号月台迎来春天，而你将在今天离去。",
+					"authors": "大泽めぐみ",
+					"cover": "https://xs.dmzj.com/img/webpic/2/6y0509l.jpg",
+					"types": [
+						"校园"
+					],
+					"last_update_chapter_id": 95930,
+					"last_update_volume_id": 10100,
+					"last_update_volume_name": "第一卷",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557466155
+				},
+				{
+					"id": 2661,
+					"status": "连载中",
+					"name": "食锈末世录",
+					"authors": "瘤久保慎司",
+					"cover": "https://xs.dmzj.com/img/webpic/11/st0509l.jpg",
+					"types": [
+						"冒险"
+					],
+					"last_update_chapter_id": 95922,
+					"last_update_volume_id": 10099,
+					"last_update_volume_name": "第一卷",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557465765
+				},
+				{
+					"id": 2660,
+					"status": "连载中",
+					"name": "自称F级的哥哥似乎要称霸以游戏分级的学园？",
+					"authors": "三河ごーすと",
+					"cover": "https://xs.dmzj.com/img/webpic/15/fji0509l.jpg",
+					"types": [
+						"校园"
+					],
+					"last_update_chapter_id": 95896,
+					"last_update_volume_id": 10098,
+					"last_update_volume_name": "第一卷",
+					"last_update_chapter_name": "后记",
+					"last_update_time": 1557392117
+				},
+				{
+					"id": 982,
+					"status": "连载中",
+					"name": "境界线上的地平线",
+					"authors": "川上稔",
+					"cover": "https://xs.dmzj.com/img/webpic/28/jj0306l.jpg",
+					"types": [
+						"科幻",
+						"爱情",
+						"校园"
+					],
+					"last_update_chapter_id": 95879,
+					"last_update_volume_id": 9986,
+					"last_update_volume_name": "外传 狼与魂",
+					"last_update_chapter_name": "最终章『银狼与觉醒』",
+					"last_update_time": 1557389016
+				},
+				{
+					"id": 2659,
+					"status": "连载中",
+					"name": "谁都可以暗中助攻讨伐魔王",
+					"authors": "槻影",
+					"cover": "https://xs.dmzj.com/img/",
+					"types": [
+						"异界",
+						"穿越",
+						"冒险"
+					],
+					"last_update_chapter_id": 95877,
+					"last_update_volume_id": 10097,
+					"last_update_volume_name": "第一卷",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557388886
+				},
+				{
+					"id": 2658,
+					"status": "连载中",
+					"name": "魔法师塔塔",
+					"authors": "うーぱー",
+					"cover": "https://xs.dmzj.com/img/webpic/19/tt0509l.jpg",
+					"types": [
+						"冒险",
+						"魔法"
+					],
+					"last_update_chapter_id": 95866,
+					"last_update_volume_id": 10096,
+					"last_update_volume_name": "第一卷",
+					"last_update_chapter_name": "转载信息",
+					"last_update_time": 1557388313
+				},
+				{
+					"id": 2061,
+					"status": "连载中",
+					"name": "转生成女性向游戏里尽是毁灭FLAG的反派千金了(转生恶役只好拔除破灭旗标)",
+					"authors": "山口悟",
+					"cover": "https://xs.dmzj.com/img/webpic/14/zhuansey6890l.jpg",
+					"types": [
+						"搞笑",
+						"后宫",
+						"异界",
+						"穿越"
+					],
+					"last_update_chapter_id": 95864,
+					"last_update_volume_id": 10068,
+					"last_update_volume_name": "第六卷",
+					"last_update_chapter_name": "电子书特典SS『卡塔丽娜的狸猫退治』",
+					"last_update_time": 1557388071
+				},
+				{
+					"id": 2246,
+					"status": "连载中",
+					"name": "究极初心者",
+					"authors": "田尾典丈",
+					"cover": "https://xs.dmzj.com/img/webpic/6/cxz1212l.jpg",
+					"types": [
+						"科幻"
+					],
+					"last_update_chapter_id": 95850,
+					"last_update_volume_id": 10095,
+					"last_update_volume_name": "第四卷 觉醒的妖精",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557311833
+				},
+				{
+					"id": 986,
+					"status": "连载中",
+					"name": "精灵使的剑舞",
+					"authors": "志瑞祐",
+					"cover": "https://xs.dmzj.com/img/webpic/5/151117dancel.jpg",
+					"types": [
+						"魔法",
+						"校园",
+						"格斗",
+						"后宫"
+					],
+					"last_update_chapter_id": 95842,
+					"last_update_volume_id": 10094,
+					"last_update_volume_name": "第二十卷 共鸣的圣魔剑",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557311533
+				},
+				{
+					"id": 1714,
+					"status": "连载中",
+					"name": "空战魔导士候补生的教官",
+					"authors": "诸星悠",
+					"cover": "https://xs.dmzj.com/img/webpic/27/kzmdshbsdjg6890l.jpg",
+					"types": [
+						"魔法",
+						"校园",
+						"后宫"
+					],
+					"last_update_chapter_id": 95827,
+					"last_update_volume_id": 10093,
+					"last_update_volume_name": "第十三卷",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557286518
+				},
+				{
+					"id": 2518,
+					"status": "连载中",
+					"name": "努力过头的世界最强武斗家，在魔法世界轻松过生活",
+					"authors": "わんこそば",
+					"cover": "https://xs.dmzj.com/img/webpic/24/wd0715l.jpg",
+					"types": [
+						"校园",
+						"后宫",
+						"异界",
+						"穿越"
+					],
+					"last_update_chapter_id": 95817,
+					"last_update_volume_id": 10092,
+					"last_update_volume_name": "第三卷",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557215225
+				},
+				{
+					"id": 2125,
+					"status": "连载中",
+					"name": "自称贤者弟子的贤者",
+					"authors": "りゅうせんひろつぐ",
+					"cover": "https://xs.dmzj.com/img/webpic/23/zcxzdzdxz68896l.jpg",
+					"types": [
+						"冒险",
+						"异界",
+						"穿越"
+					],
+					"last_update_chapter_id": 95805,
+					"last_update_volume_id": 10091,
+					"last_update_volume_name": "第二卷",
+					"last_update_chapter_name": "插画",
+					"last_update_time": 1557214861
+				}
+			]
+		}
+	},
+	"http://v2.api.dmzj.com/novel/recommend.json?": {
+		"expires": 1557675594021,
+		"data": {
+			"status": 200,
+			"statusText": "OK",
+			"headers": {
+				"server": "YunFanCDN",
+				"date": "Sun, 12 May 2019 15:24:56 GMT",
+				"content-type": "application/json",
+				"transfer-encoding": "chunked",
+				"connection": "close",
+				"x-cdn-reqid": "AEyxkCGP0DNg6yCAAi",
+				"expires": "Sun, 12 May 2019 15:54:56 GMT",
+				"cache-control": "max-age=1800",
+				"accept-ranges": "bytes",
+				"vary": "Accept-Encoding",
+				"oct-response-info": "1000000005900059001420022800001",
+				"yf-id": "ajszj1u005250p, ajsyzab009204k",
+				"oct-upstream": "118.89.211.163,222.186.170.159"
+			},
+			"data": [
+				{
+					"category_id": 57,
+					"sort": 0,
+					"title": "轮番图",
+					"data": [
+						{
+							"id": 3227,
+							"obj_id": 2501,
+							"title": "LV999的村民 第3卷",
+							"cover": "https://images.dmzj.com/tuijian/xiaoshuo/750-480/252.jpg",
+							"url": "",
+							"type": 2,
+							"sub_title": "",
+							"status": "连载中"
+						},
+						{
+							"id": 3228,
+							"obj_id": 2651,
+							"title": "辉夜大小姐想让我告白 小说版",
+							"cover": "https://images.dmzj.com/tuijian/xiaoshuo/750-480/251.jpg",
+							"url": "",
+							"type": 2,
+							"sub_title": "",
+							"status": "已完结"
+						},
+						{
+							"id": 3229,
+							"obj_id": 2344,
+							"title": "末日时在做些什么？能再一次相见吗？第7卷",
+							"cover": "https://images.dmzj.com/tuijian/xiaoshuo/750-480/253.jpg",
+							"url": "",
+							"type": 2,
+							"sub_title": "",
+							"status": "连载中"
+						},
+						{
+							"id": 3230,
+							"obj_id": 2211,
+							"title": "29岁单身汉在异世界想自由生活却事与愿违！？第4卷",
+							"cover": "https://images.dmzj.com/tuijian/xiaoshuo/750-480/254.jpg",
+							"url": "",
+							"type": 2,
+							"sub_title": "",
+							"status": "连载中"
+						},
+						{
+							"id": 3231,
+							"obj_id": 2645,
+							"title": "关于邻家的天使大人不知不觉把我惯成了废人这档子事",
+							"cover": "https://images.dmzj.com/tuijian/xiaoshuo/750-480/255.jpg",
+							"url": "",
+							"type": 2,
+							"sub_title": "",
+							"status": "连载中"
+						}
+					]
+				},
+				{
+					"category_id": 58,
+					"sort": 1,
+					"title": "最新更新",
+					"data": [
+						{
+							"id": 2249,
+							"title": "弱气角色友崎君",
+							"cover": "https://xs.dmzj.com/img/webpic/24/rq1213l.jpg",
+							"status": "连载中",
+							"url": "",
+							"obj_id": 2249,
+							"type": 2
+						},
+						{
+							"id": 2134,
+							"title": "异世界拷问姬",
+							"cover": "https://xs.dmzj.com/img/webpic/26/ysjkwj5353l.jpg",
+							"status": "连载中",
+							"url": "",
+							"obj_id": 2134,
+							"type": 2
+						},
+						{
+							"id": 2192,
+							"title": "妖怪旅馆营业中",
+							"cover": "https://xs.dmzj.com/img/webpic/9/ygldyyz0907l.jpg",
+							"status": "连载中",
+							"url": "",
+							"obj_id": 2192,
+							"type": 2
+						}
+					]
+				},
+				{
+					"category_id": 60,
+					"sort": 3,
+					"title": "动画进行时",
+					"data": [
+						{
+							"id": 3067,
+							"obj_id": 1722,
+							"title": "盾之勇者成名录",
+							"cover": "https://xs.dmzj.com/img/webpic/24/dzyzcml89l.jpg",
+							"url": "",
+							"type": 2,
+							"sub_title": "作者：アネコユサギ",
+							"status": "连载中"
+						},
+						{
+							"id": 3211,
+							"obj_id": 2130,
+							"title": "贤者之孙",
+							"cover": "https://xs.dmzj.com/img/webpic/0/xzzs6898l.jpg",
+							"url": "",
+							"type": 2,
+							"sub_title": "作者：吉冈刚",
+							"status": "连载中"
+						},
+						{
+							"id": 3217,
+							"obj_id": 2419,
+							"title": "只要长得可爱，即使是变态你也喜欢吗？",
+							"cover": "https://xs.dmzj.com/img/webpic/0/bt1217l.jpg",
+							"url": "",
+							"type": 2,
+							"sub_title": "7月播出",
+							"status": "连载中"
+						}
+					]
+				},
+				{
+					"category_id": 62,
+					"sort": 5,
+					"title": "即将动画化",
+					"data": [
+						{
+							"id": 3212,
+							"obj_id": 1844,
+							"title": "Lord·埃尔梅罗二世事件簿",
+							"cover": "https://xs.dmzj.com/img/webpic/10/aemlessjb6926.jpg",
+							"url": "",
+							"type": 2,
+							"sub_title": "7月播出",
+							"status": "连载中"
+						},
+						{
+							"id": 2628,
+							"obj_id": 2136,
+							"title": "平凡职业造就世界最强",
+							"cover": "https://xs.dmzj.com/img/webpic/25/pfzyzjsjzq68953l.jpg",
+							"url": "",
+							"type": 2,
+							"sub_title": "7月播出",
+							"status": "连载中"
+						},
+						{
+							"id": 3213,
+							"obj_id": 1522,
+							"title": "期待在地下城邂逅有错吗",
+							"cover": "https://xs.dmzj.com/img/webpic/13/zdxcxqxhsfgclsm676l.jpg",
+							"url": "",
+							"type": 2,
+							"sub_title": "7月2期",
+							"status": "连载中"
+						}
+					]
+				},
+				{
+					"category_id": 63,
+					"sort": 6,
+					"title": "经典必看",
+					"data": [
+						{
+							"id": 3232,
+							"obj_id": 1059,
+							"title": "RPG WORLD-RPG·世界-",
+							"cover": "https://xs.dmzj.com/img/webpic/20/rpg1217l.jpg",
+							"url": "",
+							"type": 2,
+							"sub_title": "作者：吉村夜",
+							"status": "已完结"
+						},
+						{
+							"id": 3233,
+							"obj_id": 1269,
+							"title": "剑神的继承者(剑神之继承者)",
+							"cover": "https://xs.dmzj.com/img/webpic/5/js0706l.jpg",
+							"url": "",
+							"type": 2,
+							"sub_title": "作者：镜游",
+							"status": "已完结"
+						},
+						{
+							"id": 3234,
+							"obj_id": 949,
+							"title": "冰结镜界的伊甸",
+							"cover": "https://xs.dmzj.com/img/webpic/12/bj0428l.jpg",
+							"url": "",
+							"type": 2,
+							"sub_title": "作者：细音启",
+							"status": "已完结"
+						},
+						{
+							"id": 3235,
+							"obj_id": 914,
+							"title": "全家！(妹妹X杀手X宅配便)",
+							"cover": "https://xs.dmzj.com/img/webpic/23/190505quanjial.jpg",
+							"url": "",
+							"type": 2,
+							"sub_title": "作者：九辺ケンジ",
+							"status": "已完结"
+						},
+						{
+							"id": 3236,
+							"obj_id": 47,
+							"title": "C3-魔方少女",
+							"cover": "https://xs.dmzj.com/img/webpic/28/c30428l.jpg",
+							"url": "",
+							"type": 2,
+							"sub_title": "作者：水濑叶月",
+							"status": "已完结"
+						},
+						{
+							"id": 3237,
+							"obj_id": 341,
+							"title": "奇幻贵公子",
+							"cover": "https://xs.dmzj.com/img/webpic/18/el0104l.jpg",
+							"url": "",
+							"type": 2,
+							"sub_title": "作者：小野不由美",
+							"status": "已完结"
+						}
+					]
+				}
+			]
+		}
+	},
+	"http://v2.api.dmzj.com/novel/2661.json?": {
+		"expires": 1557676099674,
+		"data": {
+			"status": 200,
+			"statusText": "OK",
+			"headers": {
+				"server": "YunFanCDN",
+				"date": "Sun, 12 May 2019 15:33:22 GMT",
+				"content-type": "application/json",
+				"transfer-encoding": "chunked",
+				"connection": "close",
+				"x-cdn-reqid": "AEyxkCGPtDNg8wsAAL",
+				"expires": "Sun, 12 May 2019 16:03:22 GMT",
+				"cache-control": "max-age=1800",
+				"accept-ranges": "bytes",
+				"vary": "Accept-Encoding",
+				"oct-response-info": "1000000000000000000510005100001",
+				"yf-id": "ajszj1u000185p, ajsyzab009197k",
+				"oct-upstream": "118.89.211.163,222.186.170.185"
+			},
+			"data": {
+				"id": 2661,
+				"name": "食锈末世录",
+				"zone": "日本",
+				"status": "连载中",
+				"last_update_volume_name": "第一卷",
+				"last_update_chapter_name": "插画",
+				"last_update_volume_id": 10099,
+				"last_update_chapter_id": 95922,
+				"last_update_time": 1557465765,
+				"cover": "https://xs.dmzj.com/img/webpic/11/st0509l.jpg",
+				"hot_hits": 0,
+				"introduction": "　　穿梭于能够锈蚀一切，使人类陷入死亡威胁的「锈蚀风」中，\n　　迅猛粗暴的「蕈菇守护者」赤星毕斯可。\n　　他为了拯救师父，而踏上寻找灵药蕈菇「食锈」的旅程。\n　　毕斯可带著搭档──美貌的少年医师美禄，\n　　投身波澜万丈的冒险中。\n　　他们行经宽广的埼玉铁沙漠、\n　　由毁灭文明的防卫兵器残骸架构而成的城镇、\n　　大章鱼盘据的废弃地下铁路线──\n　　严苛路途中面临的各种威胁，都以美禄的灵机一动，\n　　与毕斯可的必中蕈菇箭一举贯穿！\n　　但旅途的前方却有邪恶县知事的奸计等著他们──",
+				"types": [
+					"冒险"
+				],
+				"authors": "瘤久保慎司",
+				"subscribe_num": 968,
+				"volume": [
+					{
+						"id": 10099,
+						"lnovel_id": 2661,
+						"volume_name": "第一卷",
+						"volume_order": 10,
+						"addtime": 1557465237,
+						"sum_chapters": 7
+					}
+				]
+			}
+		}
+	},
+	"http://v2.api.dmzj.com/novel/chapter/2661.json?": {
+		"expires": 1557676454843,
+		"data": {
+			"status": 200,
+			"statusText": "OK",
+			"headers": {
+				"server": "YunFanCDN",
+				"date": "Sun, 12 May 2019 15:39:17 GMT",
+				"content-type": "application/json",
+				"transfer-encoding": "chunked",
+				"connection": "close",
+				"x-cdn-reqid": "AEyxkCGPuDNg+JSAAY",
+				"expires": "Sun, 12 May 2019 16:09:17 GMT",
+				"cache-control": "max-age=1800",
+				"accept-ranges": "bytes",
+				"vary": "Accept-Encoding",
+				"oct-response-info": "1000000000000000000730007400001",
+				"yf-id": "ajszj1u000184p, ajsyzab009198k",
+				"oct-upstream": "118.89.211.163,222.186.170.184",
+				"oct-orig-content-length": "2104"
+			},
+			"data": [
+				{
+					"volume_id": 10099,
+					"id": 10099,
+					"volume_name": "第一卷",
+					"volume_order": 10,
+					"chapters": [
+						{
+							"chapter_id": 95921,
+							"chapter_name": "转载信息",
+							"chapter_order": 1
+						},
+						{
+							"chapter_id": 95899,
+							"chapter_name": "第一章",
+							"chapter_order": 20
+						},
+						{
+							"chapter_id": 95900,
+							"chapter_name": "第二章",
+							"chapter_order": 30
+						},
+						{
+							"chapter_id": 95901,
+							"chapter_name": "第三章",
+							"chapter_order": 40
+						},
+						{
+							"chapter_id": 95902,
+							"chapter_name": "第四章",
+							"chapter_order": 50
+						},
+						{
+							"chapter_id": 95903,
+							"chapter_name": "第五章",
+							"chapter_order": 60
+						},
+						{
+							"chapter_id": 95904,
+							"chapter_name": "第六章",
+							"chapter_order": 70
+						},
+						{
+							"chapter_id": 95905,
+							"chapter_name": "第七章",
+							"chapter_order": 80
+						},
+						{
+							"chapter_id": 95906,
+							"chapter_name": "第八章",
+							"chapter_order": 90
+						},
+						{
+							"chapter_id": 95907,
+							"chapter_name": "第九章",
+							"chapter_order": 100
+						},
+						{
+							"chapter_id": 95908,
+							"chapter_name": "第十章",
+							"chapter_order": 110
+						},
+						{
+							"chapter_id": 95909,
+							"chapter_name": "第十一章",
+							"chapter_order": 120
+						},
+						{
+							"chapter_id": 95910,
+							"chapter_name": "第十二章",
+							"chapter_order": 130
+						},
+						{
+							"chapter_id": 95911,
+							"chapter_name": "第十三章",
+							"chapter_order": 140
+						},
+						{
+							"chapter_id": 95912,
+							"chapter_name": "第十四章",
+							"chapter_order": 150
+						},
+						{
+							"chapter_id": 95913,
+							"chapter_name": "第十五章",
+							"chapter_order": 160
+						},
+						{
+							"chapter_id": 95914,
+							"chapter_name": "第十六章",
+							"chapter_order": 170
+						},
+						{
+							"chapter_id": 95915,
+							"chapter_name": "第十七章",
+							"chapter_order": 180
+						},
+						{
+							"chapter_id": 95916,
+							"chapter_name": "第十八章",
+							"chapter_order": 190
+						},
+						{
+							"chapter_id": 95917,
+							"chapter_name": "第十九章",
+							"chapter_order": 200
+						},
+						{
+							"chapter_id": 95918,
+							"chapter_name": "第二十章",
+							"chapter_order": 210
+						},
+						{
+							"chapter_id": 95919,
+							"chapter_name": "第二十一章",
+							"chapter_order": 220
+						},
+						{
+							"chapter_id": 95920,
+							"chapter_name": "后记",
+							"chapter_order": 230
+						},
+						{
+							"chapter_id": 95898,
+							"chapter_name": "附录短篇 八蟹寺",
+							"chapter_order": 310
+						},
+						{
+							"chapter_id": 95922,
+							"chapter_name": "插画",
+							"chapter_order": 320
+						}
+					]
+				}
+			]
+		}
+	},
+	"http://v2.api.dmzj.com/novel/download/2661_10099_95922.txt?": {
+		"expires": 1557676724171,
+		"data": {
+			"status": 200,
+			"statusText": "OK",
+			"headers": {
+				"server": "YunFanCDN",
+				"date": "Sun, 12 May 2019 15:43:46 GMT",
+				"content-type": "application/force-download",
+				"transfer-encoding": "chunked",
+				"connection": "close",
+				"x-cdn-reqid": "AEyxkCGPuDNg/MoAAR",
+				"expires": "Tue, 11 Jun 2019 15:43:47 GMT",
+				"cache-control": "max-age=2592000",
+				"accept-ranges": "bytes",
+				"content-disposition": "attachment; filename=2661_10099_95922.txt; filename*=UTF-8''2661_10099_95922.txt",
+				"oct-response-info": "1000000000000000000540005500001",
+				"yf-id": "ajszj1u000184p, ajsyzab009198k",
+				"oct-upstream": "118.89.211.163,222.186.170.184"
+			},
+			"data": "第一卷&nbsp;&nbsp;插画<br/><img src=\"https://xs.dmzj.com/img/81/32/552c6db4771499cce362c09300791cae.jpg\" alt=\"\" /><img src=\"https://xs.dmzj.com/img/859/15/0a6070dc3b754735be1e7dc761713382.jpg\" alt=\"\" /><img src=\"https://xs.dmzj.com/img/510/87/0eb6251c617e5adc4e151b1140924e0b.jpg\" alt=\"\" /><img src=\"https://xs.dmzj.com/img/1351/93/26ae0955a259d455edd9335b9145ee10.jpg\" alt=\"\" /><img src=\"https://xs.dmzj.com/img/242/72/1cdc8d0cbdd69ffe3bf78541d99888dd.jpg\" alt=\"\" /><img src=\"https://xs.dmzj.com/img/1295/9/51dc28777bf4e0233aeb05a7f52a5fc1.jpg\" alt=\"\" /><img src=\"https://xs.dmzj.com/img/899/23/f9af2a6d7bda39ba89db274d789d589d.jpg\" alt=\"\" /><img width=\"1532\" height=\"1134\" src=\"https://xs.dmzj.com/img/398/51/1c5af48ca659c203f4981f97c28576b5.jpg\" alt=\"\" /><img src=\"https://xs.dmzj.com/img/490/57/7c70e79b570591f391608d6973c31d28.jpg\" alt=\"\" /><img src=\"https://xs.dmzj.com/img/887/23/7e9214ca57cedca1535119ad66fac578.jpg\" alt=\"\" /><img src=\"https://xs.dmzj.com/img/260/95/94fdc3e743b9bdf0de06db27c8018892.jpg\" alt=\"\" /><img src=\"https://xs.dmzj.com/img/1352/36/f08ef9ebe834a668c1ebed0f0d6d90da.jpg\" alt=\"\" /><img src=\"https://xs.dmzj.com/img/1139/54/b73332a54e28b1e81960f11b47f9f54d.jpg\" alt=\"\" /><img width=\"766\" height=\"1134\" src=\"https://xs.dmzj.com/img/1307/7/b153d9cb045270c6b632f0523e2a66c1.jpg\" alt=\"\" /><img width=\"766\" height=\"1134\" src=\"https://xs.dmzj.com/img/553/74/2aa78b8db09740fbc549b42bc4b557d4.jpg\" alt=\"\" /><img src=\"https://xs.dmzj.com/img/625/76/0ffa2daaf4176dd19cc97394710804b9.jpg\" alt=\"\" /><br />"
+		}
+	},
+	"http://v2.api.dmzj.com/1/category.json?": {
+		"expires": 1557676954085,
+		"data": {
+			"status": 200,
+			"statusText": "OK",
+			"headers": {
+				"server": "YunFanCDN",
+				"date": "Sun, 12 May 2019 15:47:37 GMT",
+				"content-type": "application/json",
+				"transfer-encoding": "chunked",
+				"connection": "close",
+				"x-cdn-reqid": "AEyxkCGPtDNhAGTAAD",
+				"expires": "Sun, 12 May 2019 16:17:36 GMT",
+				"cache-control": "max-age=1800",
+				"accept-ranges": "bytes",
+				"vary": "Accept-Encoding",
+				"oct-response-info": "1000000005800059001300013200001",
+				"yf-id": "ajszj1u000182p, ajsyzab009197k",
+				"oct-upstream": "118.89.211.163,222.186.170.182"
+			},
+			"data": [
+				{
+					"tag_id": 20,
+					"title": "冒险",
+					"cover": "https://images.dmzj.com/tuijian/xiaoshuo/fenlei/maoxian.jpg"
+				},
+				{
+					"tag_id": 40,
+					"title": "搞笑",
+					"cover": "https://images.dmzj.com/tuijian/xiaoshuo/fenlei/gaoxiao.jpg"
+				},
+				{
+					"tag_id": 47,
+					"title": "战斗",
+					"cover": "https://images.dmzj.com/tuijian/xiaoshuo/fenlei/zhandou.jpg"
+				},
+				{
+					"tag_id": 4,
+					"title": "科幻",
+					"cover": "https://images.dmzj.com/tuijian/xiaoshuo/fenlei/kehuan.jpg"
+				},
+				{
+					"tag_id": 8,
+					"title": "恋爱",
+					"cover": "https://images.dmzj.com/tuijian/xiaoshuo/fenlei/aiqing.jpg"
+				},
+				{
+					"tag_id": 6,
+					"title": "侦探",
+					"cover": "https://images.dmzj.com/tuijian/xiaoshuo/fenlei/zhentan.jpg"
+				},
+				{
+					"tag_id": 16,
+					"title": "魔法",
+					"cover": "https://images.dmzj.com/tuijian/xiaoshuo/fenlei/mofa.jpg"
+				},
+				{
+					"tag_id": 14,
+					"title": "神鬼",
+					"cover": "https://images.dmzj.com/tuijian/xiaoshuo/fenlei/shengui.jpg"
+				},
+				{
+					"tag_id": 12,
+					"title": "校园",
+					"cover": "https://images.dmzj.com/tuijian/xiaoshuo/fenlei/xiaoyuan.jpg"
+				},
+				{
+					"tag_id": 2,
+					"title": "恐怖",
+					"cover": "https://images.dmzj.com/tuijian/xiaoshuo/fenlei/kongbu.jpg"
+				},
+				{
+					"tag_id": 25,
+					"title": "其他",
+					"cover": "https://images.dmzj.com/tuijian/xiaoshuo/fenlei/qita.jpg"
+				}
+			]
+		}
+	},
+	"http://v2.api.dmzj.com/novel/filter.json?": {
+		"expires": 1557677095082,
+		"data": {
+			"status": 200,
+			"statusText": "OK",
+			"headers": {
+				"server": "YunFanCDN",
+				"date": "Sun, 12 May 2019 15:49:58 GMT",
+				"content-type": "application/json",
+				"transfer-encoding": "chunked",
+				"connection": "close",
+				"x-cdn-reqid": "AEyxkCGP0DNhAphAAB",
+				"expires": "Fri, 07 Jun 2019 12:11:49 GMT",
+				"age": "358689",
+				"cache-control": "max-age=2592000",
+				"accept-ranges": "bytes",
+				"vary": "Accept-Encoding",
+				"oct-response-info": "1000000004200043000670010000001",
+				"cache-hit": "HIT",
+				"yf-id": "ajszj1u005253p, ajsyzab009204k",
+				"oct-upstream": "222.186.170.162"
+			},
+			"data": [
+				{
+					"title": "题材",
+					"items": [
+						{
+							"tag_id": 0,
+							"tag_name": "全部"
+						},
+						{
+							"tag_id": 2,
+							"tag_name": "恐怖"
+						},
+						{
+							"tag_id": 4,
+							"tag_name": "科幻"
+						},
+						{
+							"tag_id": 6,
+							"tag_name": "侦探"
+						},
+						{
+							"tag_id": 8,
+							"tag_name": "爱情"
+						},
+						{
+							"tag_id": 12,
+							"tag_name": "校园"
+						},
+						{
+							"tag_id": 14,
+							"tag_name": "神鬼"
+						},
+						{
+							"tag_id": 16,
+							"tag_name": "魔法"
+						},
+						{
+							"tag_id": 20,
+							"tag_name": "冒险"
+						},
+						{
+							"tag_id": 25,
+							"tag_name": "其它"
+						},
+						{
+							"tag_id": 40,
+							"tag_name": "搞笑"
+						},
+						{
+							"tag_id": 47,
+							"tag_name": "格斗"
+						},
+						{
+							"tag_id": 1264,
+							"tag_name": "机战"
+						},
+						{
+							"tag_id": 1265,
+							"tag_name": "仙侠"
+						},
+						{
+							"tag_id": 1266,
+							"tag_name": "都市"
+						},
+						{
+							"tag_id": 1267,
+							"tag_name": "历史"
+						},
+						{
+							"tag_id": 1268,
+							"tag_name": "战争"
+						},
+						{
+							"tag_id": 1269,
+							"tag_name": "治愈"
+						},
+						{
+							"tag_id": 1270,
+							"tag_name": "励志"
+						},
+						{
+							"tag_id": 1271,
+							"tag_name": "后宫"
+						},
+						{
+							"tag_id": 1272,
+							"tag_name": "百合"
+						},
+						{
+							"tag_id": 1273,
+							"tag_name": "耽美"
+						},
+						{
+							"tag_id": 1274,
+							"tag_name": "异界"
+						},
+						{
+							"tag_id": 1275,
+							"tag_name": "异能"
+						},
+						{
+							"tag_id": 1276,
+							"tag_name": "穿越"
+						},
+						{
+							"tag_id": 1321,
+							"tag_name": "奇幻"
+						}
+					]
+				},
+				{
+					"title": "连载进度",
+					"items": [
+						{
+							"tag_id": 0,
+							"tag_name": "全部"
+						},
+						{
+							"tag_id": 1,
+							"tag_name": "连载中"
+						},
+						{
+							"tag_id": 2,
+							"tag_name": "已完结"
+						}
+					]
+				}
+			]
+		}
+	},
+	"http://v2.api.dmzj.com/novel/1272/0/1/0.json?": {
+		"expires": 1557677865015,
+		"data": {
+			"status": 200,
+			"statusText": "OK",
+			"headers": {
+				"server": "YunFanCDN",
+				"date": "Sun, 12 May 2019 16:02:47 GMT",
+				"content-type": "application/json",
+				"transfer-encoding": "chunked",
+				"connection": "close",
+				"x-cdn-reqid": "AEyxkCGP0DNhDp5AAd",
+				"expires": "Sun, 12 May 2019 16:32:47 GMT",
+				"cache-control": "max-age=1800",
+				"accept-ranges": "bytes",
+				"vary": "Accept-Encoding",
+				"oct-response-info": "1000000000000000000630006400001",
+				"yf-id": "ajszj1u005253p, ajsyzab009204k",
+				"oct-upstream": "118.89.211.163,222.186.170.162"
+			},
+			"data": [
+				{
+					"cover": "https://xs.dmzj.com/img/webpic/16/wycwsmw55689l.jpg",
+					"name": "我要成为双马尾",
+					"authors": "水泽梦",
+					"id": 1495
+				},
+				{
+					"cover": "https://xs.dmzj.com/img/webpic/2/zuobo1123l.jpg",
+					"name": "终将成为你 佐伯沙弥香的追忆",
+					"authors": "入间人间",
+					"id": 2580
+				},
+				{
+					"cover": "https://xs.dmzj.com/img/webpic/18/lovelivveschoolidoldiary3568l.jpg",
+					"name": "LOVELIVE！School idol diary(μ’s活动日志)",
+					"authors": "公野樱子",
+					"id": 1513
+				},
+				{
+					"cover": "https://xs.dmzj.com/img/webpic/1/mr0629l.jpg",
+					"name": "她与我的末日旅行",
+					"authors": "ツカサ",
+					"id": 2510
+				},
+				{
+					"cover": "https://xs.dmzj.com/img/webpic/28/adydc6890l.jpg",
+					"name": "安达与岛村",
+					"authors": "入间人间",
+					"id": 1697
+				},
+				{
+					"cover": "https://xs.dmzj.com/img/webpic/12/ggmn0526l.jpg",
+					"name": "高贵魔女",
+					"authors": "南房秀久",
+					"id": 2328
+				},
+				{
+					"cover": "https://xs.dmzj.com/img/webpic/13/wx0814l.jpg",
+					"name": "少女妄想中",
+					"authors": "入间人间",
+					"id": 2371
+				},
+				{
+					"cover": "https://xs.dmzj.com/img/webpic/26/jdschyzb38l.jpg",
+					"name": "舰队收藏(舰队Collection 鹤翼之绊)",
+					"authors": "内田弘树",
+					"id": 1879
+				},
+				{
+					"cover": "https://xs.dmzj.com/img/webpic/14/astergirl65689l.jpg",
+					"name": "Aster girl（紫菀少女）",
+					"authors": "本知そら",
+					"id": 2158
+				},
+				{
+					"cover": "https://xs.dmzj.com/img/webpic/3/natu001xqysx086065.jpg",
+					"name": "相亲于盛夏 再会翱翔天际之风",
+					"authors": "朱门优",
+					"id": 1618
+				},
+				{
+					"cover": "https://xs.dmzj.com/img/webpic/18/9784891990800ccyyxhwx.jpg",
+					"name": "超次元游戏海王星",
+					"authors": "おかず",
+					"id": 1616
+				},
+				{
+					"cover": "https://xs.dmzj.com/img/webpic/0/chaociyuan-gx.jpg",
+					"name": "超次元游戏海王星高校篇",
+					"authors": "おかず",
+					"id": 1521
+				},
+				{
+					"cover": "https://xs.dmzj.com/img/webpic/0/tangcaorenou.jpg",
+					"name": "唐草人偶",
+					"authors": "梨木香步",
+					"id": 1353
+				},
+				{
+					"cover": "https://xs.dmzj.com/img/webpic/25/qiansejiaoxiangqu.jpg",
+					"name": "茜色交响曲",
+					"authors": "瑞智士记",
+					"id": 1308
+				},
+				{
+					"cover": "https://xs.dmzj.com/img/webpic/4/0361V.jpg",
+					"name": "强袭魔女",
+					"authors": "山口升",
+					"id": 342
+				}
+			]
+		}
+	},
+	"http://v2.api.dmzj.com/search/show/1/%25E7%25A5%259E/0.json?": {
+		"expires": 1557680528504,
+		"data": {
+			"status": 200,
+			"statusText": "OK",
+			"headers": {
+				"server": "YunFanCDN",
+				"date": "Sun, 12 May 2019 16:47:11 GMT",
+				"content-type": "application/json",
+				"transfer-encoding": "chunked",
+				"connection": "close",
+				"x-cdn-reqid": "AEyxkCGP0DNhOD7AAB",
+				"expires": "Sun, 12 May 2019 16:47:10 GMT",
+				"cache-control": "no-cache",
+				"accept-ranges": "bytes",
+				"vary": "Accept-Encoding",
+				"oct-response-info": "0000000000000000000650006600001",
+				"yf-id": "ajszj1u005206p, ajsyzab009204k",
+				"oct-upstream": "118.89.211.163,222.186.170.143"
+			},
+			"data": [
+				{
+					"id": 42,
+					"status": "已完结",
+					"title": "Campione！弑神者!",
+					"last_name": "短篇\r",
+					"cover": "https://xs.dmzj.com/img/webpic/23/151117shishenzhel.jpg",
+					"authors": "丈月城",
+					"types": "神鬼/后宫",
+					"hot_hits": 11253227
+				},
+				{
+					"id": 1654,
+					"status": "连载中",
+					"title": "最弱无败神装机龙《巴哈姆特》",
+					"last_name": "第十三卷",
+					"cover": "https://xs.dmzj.com/img/webpic/24/zrwbdszjl9l.jpg",
+					"authors": "明月千里",
+					"types": "校园/冒险",
+					"hot_hits": 3531626
+				},
+				{
+					"id": 1107,
+					"status": "连载中",
+					"title": "月神来我家！",
+					"last_name": "第十二卷",
+					"cover": "https://xs.dmzj.com/img/webpic/3/yslwj.jpg",
+					"authors": "后藤佑迅",
+					"types": "爱情/校园/搞笑/神鬼",
+					"hot_hits": 1834035
+				},
+				{
+					"id": 1269,
+					"status": "已完结",
+					"title": "剑神的继承者(剑神之继承者)",
+					"last_name": "第十二卷",
+					"cover": "https://xs.dmzj.com/img/webpic/5/js0706l.jpg",
+					"authors": "镜游",
+					"types": "校园/爱情/搞笑",
+					"hot_hits": 1246146
+				},
+				{
+					"id": 1045,
+					"status": "已完结",
+					"title": "神不在的星期天",
+					"last_name": "第九卷",
+					"cover": "https://xs.dmzj.com/img/webpic/6/sbzdxqt2.jpg",
+					"authors": "入江君人",
+					"types": "冒险/奇幻/异界",
+					"hot_hits": 1179458
+				},
+				{
+					"id": 2456,
+					"status": "连载中",
+					"title": "重来吧、魔王大人！",
+					"last_name": "web版第五章 恋之迷宮",
+					"cover": "https://xs.dmzj.com/img/webpic/15/cl0325l.jpg",
+					"authors": "神埼黑音",
+					"types": "后宫/异界/穿越/冒险",
+					"hot_hits": 942273
+				},
+				{
+					"id": 1701,
+					"status": "连载中",
+					"title": "盗贼神技～在异世界盗取技能～",
+					"last_name": "第四卷",
+					"cover": "https://xs.dmzj.com/img/webpic/18/dzsj689881.jpg",
+					"authors": "飞鸟けい",
+					"types": "魔法/冒险/后宫/异界/穿越",
+					"hot_hits": 921335
+				},
+				{
+					"id": 2051,
+					"status": "连载中",
+					"title": "弑神的英雄与七个誓约",
+					"last_name": "第一卷",
+					"cover": "https://xs.dmzj.com/img/webpic/2/ssdyxyqgsy688l.jpg",
+					"authors": "ウメ种",
+					"types": "魔法/冒险/异界/穿越",
+					"hot_hits": 835953
+				},
+				{
+					"id": 2269,
+					"status": "已完结",
+					"title": "终将成为神话的放学后战争",
+					"last_name": "第十卷 魔眼之王与天焦恋歌",
+					"cover": "https://xs.dmzj.com/img/webpic/1/fkh0115l.jpg",
+					"authors": "なめこ印",
+					"types": "校园/魔法",
+					"hot_hits": 820530
+				},
+				{
+					"id": 2003,
+					"status": "连载中",
+					"title": "SAO刀剑神域外传 Gun Gale Online",
+					"last_name": "第六卷 One Summer Day",
+					"cover": "https://xs.dmzj.com/img/webpic/2/djggo52689l.jpg",
+					"authors": "时雨泽惠一",
+					"types": "科幻/冒险",
+					"hot_hits": 597837
+				}
+			]
+		}
+	},
+	"http://v2.api.dmzj.com/search/show/1/%E7%A5%9E/0.json?": {
+		"expires": 1557680774222,
+		"data": {
+			"status": 200,
+			"statusText": "OK",
+			"headers": {
+				"server": "YunFanCDN",
+				"date": "Sun, 12 May 2019 16:51:17 GMT",
+				"content-type": "application/json",
+				"transfer-encoding": "chunked",
+				"connection": "close",
+				"x-cdn-reqid": "AEyxkCGPuDNhPBUAAJ",
+				"expires": "Sun, 12 May 2019 16:51:16 GMT",
+				"cache-control": "no-cache",
+				"accept-ranges": "bytes",
+				"vary": "Accept-Encoding",
+				"oct-response-info": "0000000000000000000550005500001",
+				"yf-id": "ajszj1u005204p, ajsyzab009198k",
+				"oct-upstream": "118.89.211.163,222.186.170.141"
+			},
+			"data": [
+				{
+					"id": 42,
+					"status": "已完结",
+					"title": "Campione！弑神者!",
+					"last_name": "短篇\r",
+					"cover": "https://xs.dmzj.com/img/webpic/23/151117shishenzhel.jpg",
+					"authors": "丈月城",
+					"types": "神鬼/后宫",
+					"hot_hits": 11253227
+				},
+				{
+					"id": 1654,
+					"status": "连载中",
+					"title": "最弱无败神装机龙《巴哈姆特》",
+					"last_name": "第十三卷",
+					"cover": "https://xs.dmzj.com/img/webpic/24/zrwbdszjl9l.jpg",
+					"authors": "明月千里",
+					"types": "校园/冒险",
+					"hot_hits": 3531626
+				},
+				{
+					"id": 1107,
+					"status": "连载中",
+					"title": "月神来我家！",
+					"last_name": "第十二卷",
+					"cover": "https://xs.dmzj.com/img/webpic/3/yslwj.jpg",
+					"authors": "后藤佑迅",
+					"types": "爱情/校园/搞笑/神鬼",
+					"hot_hits": 1834035
+				},
+				{
+					"id": 1269,
+					"status": "已完结",
+					"title": "剑神的继承者(剑神之继承者)",
+					"last_name": "第十二卷",
+					"cover": "https://xs.dmzj.com/img/webpic/5/js0706l.jpg",
+					"authors": "镜游",
+					"types": "校园/爱情/搞笑",
+					"hot_hits": 1246146
+				},
+				{
+					"id": 1045,
+					"status": "已完结",
+					"title": "神不在的星期天",
+					"last_name": "第九卷",
+					"cover": "https://xs.dmzj.com/img/webpic/6/sbzdxqt2.jpg",
+					"authors": "入江君人",
+					"types": "冒险/奇幻/异界",
+					"hot_hits": 1179458
+				},
+				{
+					"id": 2456,
+					"status": "连载中",
+					"title": "重来吧、魔王大人！",
+					"last_name": "web版第五章 恋之迷宮",
+					"cover": "https://xs.dmzj.com/img/webpic/15/cl0325l.jpg",
+					"authors": "神埼黑音",
+					"types": "后宫/异界/穿越/冒险",
+					"hot_hits": 942273
+				},
+				{
+					"id": 1701,
+					"status": "连载中",
+					"title": "盗贼神技～在异世界盗取技能～",
+					"last_name": "第四卷",
+					"cover": "https://xs.dmzj.com/img/webpic/18/dzsj689881.jpg",
+					"authors": "飞鸟けい",
+					"types": "魔法/冒险/后宫/异界/穿越",
+					"hot_hits": 921335
+				},
+				{
+					"id": 2051,
+					"status": "连载中",
+					"title": "弑神的英雄与七个誓约",
+					"last_name": "第一卷",
+					"cover": "https://xs.dmzj.com/img/webpic/2/ssdyxyqgsy688l.jpg",
+					"authors": "ウメ种",
+					"types": "魔法/冒险/异界/穿越",
+					"hot_hits": 835953
+				},
+				{
+					"id": 2269,
+					"status": "已完结",
+					"title": "终将成为神话的放学后战争",
+					"last_name": "第十卷 魔眼之王与天焦恋歌",
+					"cover": "https://xs.dmzj.com/img/webpic/1/fkh0115l.jpg",
+					"authors": "なめこ印",
+					"types": "校园/魔法",
+					"hot_hits": 820530
+				},
+				{
+					"id": 2003,
+					"status": "连载中",
+					"title": "SAO刀剑神域外传 Gun Gale Online",
+					"last_name": "第六卷 One Summer Day",
+					"cover": "https://xs.dmzj.com/img/webpic/2/djggo52689l.jpg",
+					"authors": "时雨泽惠一",
+					"types": "科幻/冒险",
+					"hot_hits": 597837
+				}
+			]
+		}
+	},
+	"http://v2.api.dmzj.com/search/show/1/%E9%9A%AA/0.json?": {
+		"expires": 1557685402463,
+		"data": {
+			"status": 200,
+			"statusText": "OK",
+			"headers": {
+				"server": "YunFanCDN",
+				"date": "Sun, 12 May 2019 18:08:25 GMT",
+				"content-type": "application/json",
+				"transfer-encoding": "chunked",
+				"connection": "close",
+				"x-cdn-reqid": "AEyxkCGPuDNhhGeAAC",
+				"expires": "Sun, 12 May 2019 18:08:24 GMT",
+				"cache-control": "no-cache",
+				"accept-ranges": "bytes",
+				"vary": "Accept-Encoding",
+				"oct-response-info": "0000040000400004000460004600001",
+				"yf-id": "ajszj1u005251p, ajsyzab009198k",
+				"oct-upstream": "118.89.211.163,222.186.170.160"
+			},
+			"data": []
+		}
+	},
+	"http://v2.api.dmzj.com/v3/recommend.json?": {
+		"expires": 1557685866163,
+		"data": {
+			"status": 200,
+			"statusText": "OK",
+			"headers": {
+				"server": "YunFanCDN",
+				"date": "Sun, 12 May 2019 18:16:09 GMT",
+				"content-type": "application/json",
+				"transfer-encoding": "chunked",
+				"connection": "close",
+				"x-cdn-reqid": "AEyxkCGP0DNhi6QAAD",
+				"expires": "Sun, 12 May 2019 18:46:09 GMT",
+				"cache-control": "max-age=1800",
+				"accept-ranges": "bytes",
+				"vary": "Accept-Encoding",
+				"oct-response-info": "1000000000000000000520005500001",
+				"yf-id": "ajszj1u000182p, ajsyzab009204k",
+				"oct-upstream": "118.89.211.163,222.186.170.182"
+			},
+			"data": [
+				{
+					"category_id": 46,
+					"title": "大图推荐",
+					"sort": 1,
+					"data": [
+						{
+							"cover": "https://images.dmzj.com/tuijian/750_480/190509yanjingtj2.jpg",
+							"title": "喜欢的人忘戴眼镜·三重的巧克力",
+							"sub_title": "喜欢的人忘戴眼镜·三重的巧克力",
+							"type": 1,
+							"url": "",
+							"obj_id": 46205,
+							"status": "连载中"
+						},
+						{
+							"cover": "https://images.dmzj.com/tuijian/750_480/190510xinwentj4.jpg",
+							"title": "四月人气新番·一拳超人 再临！",
+							"sub_title": "四月人气新番·一拳超人 再临！",
+							"type": 6,
+							"url": "http://cdnmyfcomicadmin.myfcomic.com/activity/activity_6/a3a1868657671af5f0ea4258127d51f2.html?assign_id=20 ",
+							"obj_id": 0,
+							"status": ""
+						},
+						{
+							"cover": "https://images.dmzj.com/tuijian/750_480/190511muqinjietj2.jpg",
+							"title": "P站美图系列、母亲节特辑",
+							"sub_title": "P站美图系列、母亲节特辑",
+							"type": 7,
+							"url": "https://v2api.dmzj.com/v3/article/show/62228.html",
+							"obj_id": 62228,
+							"status": ""
+						},
+						{
+							"cover": "https://images.dmzj.com/tuijian/750_480/190509xiaosentj2.jpg",
+							"title": "小森拒不了·汉化组打麻将缺人、速来",
+							"sub_title": "小森拒不了·汉化组打麻将缺人、速来",
+							"type": 1,
+							"url": "",
+							"obj_id": 13814,
+							"status": "连载中"
+						},
+						{
+							"cover": "https://images.dmzj.com/tuijian/750_480/190510xinwentj6.jpg",
+							"title": "动漫之家招人公告第八期",
+							"sub_title": "动漫之家招人公告第八期",
+							"type": 7,
+							"url": "https://v2api.dmzj.com/v3/article/show/62030.html",
+							"obj_id": 62030,
+							"status": ""
+						}
+					]
+				},
+				{
+					"category_id": 47,
+					"title": "近期必看",
+					"sort": 3,
+					"data": [
+						{
+							"cover": "https://images.dmzj.com/webpic/13/dazhizhu1116l.jpg",
+							"title": "大蜘蛛酱",
+							"sub_title": "母亲节快乐",
+							"type": 1,
+							"url": "",
+							"obj_id": 40553,
+							"status": "连载中"
+						},
+						{
+							"cover": "https://images.dmzj.com/webpic/15/190124ssdmm.jpg",
+							"title": "十岁的妈妈",
+							"sub_title": "母亲节快乐",
+							"type": 1,
+							"url": "",
+							"obj_id": 47195,
+							"status": "连载中"
+						},
+						{
+							"cover": "https://images.dmzj.com/webpic/1/181113emmm.jpg",
+							"title": "恶魔妈妈",
+							"sub_title": "母亲节快乐",
+							"type": 1,
+							"url": "",
+							"obj_id": 46439,
+							"status": "连载中"
+						}
+					]
+				},
+				{
+					"category_id": 48,
+					"title": "火热专题",
+					"sort": 4,
+					"data": [
+						{
+							"cover": "https://images.dmzj.com/tuijian/320_170/190422yqcrmf.jpg",
+							"title": "光头披风侠强势入驻！",
+							"sub_title": "光头披风侠强势入驻！",
+							"type": 6,
+							"url": "http://cdnmyfcomicadmin.myfcomic.com/activity/activity_1/6c613696a748af0de25652146858e09f.html?assign_id=17",
+							"obj_id": 0,
+							"status": ""
+						},
+						{
+							"cover": "https://images.dmzj.com/tuijian/320_170/190412xinman63.jpg",
+							"title": "新漫周刊第63期",
+							"sub_title": "新漫周刊第63期",
+							"type": 5,
+							"url": "",
+							"obj_id": 333,
+							"status": ""
+						},
+						{
+							"cover": "https://images.dmzj.com/tuijian/320_170/180302wanjie05.jpg",
+							"title": "银河系完结漫游指南第5期",
+							"sub_title": "银河系完结漫游指南第5期",
+							"type": 5,
+							"url": "",
+							"obj_id": 274,
+							"status": ""
+						},
+						{
+							"cover": "https://images.dmzj.com/tuijian/320_170/160513chaochangpianmanhua.jpg",
+							"title": "超长篇漫画专题",
+							"sub_title": "超长篇漫画专题",
+							"type": 5,
+							"url": "",
+							"obj_id": 77,
+							"status": ""
+						}
+					]
+				},
+				{
+					"category_id": 51,
+					"title": "大师级作者怎能不看",
+					"sort": 6,
+					"data": [
+						{
+							"cover": "https://images.dmzj.com/tuijian/150_200/171211yajianxiuzao.jpg",
+							"title": "押见修造",
+							"sub_title": "",
+							"type": 8,
+							"url": "",
+							"obj_id": 3734,
+							"status": ""
+						},
+						{
+							"cover": "https://images.dmzj.com/tuijian/150_200/171211qiubenzhi.jpg",
+							"title": "秋本治",
+							"sub_title": "",
+							"type": 8,
+							"url": "",
+							"obj_id": 1147,
+							"status": ""
+						},
+						{
+							"cover": "https://images.dmzj.com/tuijian/150_200/171211shuishangwuzhi.jpg",
+							"title": "水上悟志",
+							"sub_title": "",
+							"type": 8,
+							"url": "",
+							"obj_id": 1705,
+							"status": ""
+						}
+					]
+				},
+				{
+					"category_id": 52,
+					"title": "国漫也精彩",
+					"sort": 7,
+					"data": [
+						{
+							"cover": "https://images.dmzj.com/img/webpic/9/1015583891528263791.jpg",
+							"title": "蒸汽世界",
+							"sub_title": "作者：毛小姐",
+							"type": 1,
+							"url": "",
+							"obj_id": 36238,
+							"status": "连载中"
+						},
+						{
+							"cover": "https://images.dmzj.com/img/webpic/3/1069540231556818964.jpg",
+							"title": "平凡女孩日记",
+							"sub_title": "作者：王子书",
+							"type": 1,
+							"url": "",
+							"obj_id": 44039,
+							"status": "连载中"
+						},
+						{
+							"cover": "https://images.dmzj.com/img/webpic/14/1000997141531986808.jpg",
+							"title": "凤归",
+							"sub_title": "作者：鲜漫动漫",
+							"type": 1,
+							"url": "",
+							"obj_id": 45027,
+							"status": "连载中"
+						},
+						{
+							"cover": "https://images.dmzj.com/img/webpic/14/1002241141506407587.jpg",
+							"title": "大理寺日志",
+							"sub_title": "作者：RC",
+							"type": 1,
+							"url": "",
+							"obj_id": 19526,
+							"status": "连载中"
+						},
+						{
+							"cover": "https://images.dmzj.com/img/webpic/12/1034989321547304235.jpg",
+							"title": "以星予你",
+							"sub_title": "作者：慕寒",
+							"type": 1,
+							"url": "",
+							"obj_id": 45725,
+							"status": "连载中"
+						},
+						{
+							"cover": "https://images.dmzj.com/img/webpic/1/1060645811528086061.jpg",
+							"title": "旷野之境·消失的流沙",
+							"sub_title": "作者：观池跨次元",
+							"type": 1,
+							"url": "",
+							"obj_id": 43152,
+							"status": "已完结"
+						}
+					]
+				},
+				{
+					"category_id": 53,
+					"title": "美漫大事件",
+					"sort": 8,
+					"data": [
+						{
+							"cover": "https://images.dmzj.com/tuijian/320_170/0829mimidiguo.jpg",
+							"title": "秘密帝国",
+							"sub_title": "",
+							"type": 1,
+							"url": "",
+							"obj_id": 40252,
+							"status": "连载中"
+						},
+						{
+							"cover": "https://images.dmzj.com/tuijian/320_170/0829jinshu.jpg",
+							"title": "黑暗之夜-金属",
+							"sub_title": "",
+							"type": 1,
+							"url": "",
+							"obj_id": 41249,
+							"status": "连载中"
+						},
+						{
+							"cover": "https://images.dmzj.com/tuijian/320_170/0426zhujiezhizhan320.jpg",
+							"title": "诸界之战",
+							"sub_title": "",
+							"type": 1,
+							"url": "",
+							"obj_id": 47990,
+							"status": "连载中"
+						},
+						{
+							"cover": "https://images.dmzj.com/tuijian/320_170/0829wuxianzhanzheng.jpg",
+							"title": "无限战争",
+							"sub_title": "",
+							"type": 1,
+							"url": "",
+							"obj_id": 45080,
+							"status": "已完结"
+						}
+					]
+				},
+				{
+					"category_id": 54,
+					"title": "热门连载",
+					"sort": 9,
+					"data": [
+						{
+							"cover": "https://images.dmzj.com/webpic/6/asbytksjdmxzV2.jpg",
+							"title": "阿瑟比与天空世界的冒险者",
+							"sub_title": "作者：梅木泰祐",
+							"type": 1,
+							"url": "",
+							"obj_id": 25856,
+							"status": "连载中"
+						},
+						{
+							"cover": "https://images.dmzj.com/webpic/11/1802261000yan.jpg",
+							"title": "1000円英雄",
+							"sub_title": "作者：烧き芋ハンサム斋藤",
+							"type": 1,
+							"url": "",
+							"obj_id": 43264,
+							"status": "连载中"
+						},
+						{
+							"cover": "https://images.dmzj.com/webpic/19/keaidewodezhizuofangshi11.jpg",
+							"title": "可爱的我的制作方式",
+							"sub_title": "作者：六多いくみ",
+							"type": 1,
+							"url": "",
+							"obj_id": 47939,
+							"status": "连载中"
+						},
+						{
+							"cover": "https://images.dmzj.com/webpic/2/wudongchongshen111.jpg",
+							"title": "舞动重生",
+							"sub_title": "作者：三三嶋犬太朗",
+							"type": 1,
+							"url": "",
+							"obj_id": 46693,
+							"status": "连载中"
+						},
+						{
+							"cover": "https://images.dmzj.com/webpic/15/baoanguanx.jpg",
+							"title": "保安官艾凡思的谎言",
+							"sub_title": "作者：栗山ミヅキ",
+							"type": 1,
+							"url": "",
+							"obj_id": 40232,
+							"status": "连载中"
+						},
+						{
+							"cover": "https://images.dmzj.com/webpic/12/P0009xiyuwangzi3312339.jpg",
+							"title": "嫁给我的西域王子",
+							"sub_title": "作者：美麻りん",
+							"type": 1,
+							"url": "",
+							"obj_id": 47949,
+							"status": "连载中"
+						}
+					]
+				},
+				{
+					"category_id": 55,
+					"title": "条漫专区",
+					"sort": 10,
+					"data": [
+						{
+							"cover": "https://images.dmzj.com/tuijian/320_170/160802qingmeizhuma.jpg",
+							"title": "完全没有恋爱感情的青梅竹马",
+							"sub_title": "",
+							"type": 1,
+							"url": "",
+							"obj_id": 33322,
+							"status": "连载中"
+						},
+						{
+							"cover": "https://images.dmzj.com/tuijian/320_170/190228mianbaodailaiheping.jpg",
+							"title": "面包带来和平",
+							"sub_title": "",
+							"type": 1,
+							"url": "",
+							"obj_id": 21524,
+							"status": "连载中"
+						},
+						{
+							"cover": "https://images.dmzj.com/tuijian/320_170/keleimiyuwangzhijai190228.jpg",
+							"title": "克雷米与王之家",
+							"sub_title": "",
+							"type": 1,
+							"url": "",
+							"obj_id": 45838,
+							"status": "连载中"
+						},
+						{
+							"cover": "https://images.dmzj.com/tuijian/320_170/190228heixinqiyezhiyuanbianchengmao.jpg",
+							"title": "黑心企业的职员变成猫之后人生有了转变的故事",
+							"sub_title": "",
+							"type": 1,
+							"url": "",
+							"obj_id": 47515,
+							"status": "已完结"
+						}
+					]
+				},
+				{
+					"category_id": 56,
+					"title": "最新上架",
+					"sort": 11,
+					"data": [
+						{
+							"id": 48437,
+							"title": "面无表情的女装男子",
+							"authors": "くらの",
+							"status": "连载中",
+							"cover": "https://images.dmzj.com/webpic/11/nvzhuangdalao0512.jpg"
+						},
+						{
+							"id": 48436,
+							"title": "无名祭祀书：克苏鲁的呼唤",
+							"authors": "田边刚/HP·洛夫克拉夫特",
+							"status": "连载中",
+							"cover": "https://images.dmzj.com/webpic/2/kesuludehuhuan0512.jpg"
+						},
+						{
+							"id": 48435,
+							"title": "半夜邻叫",
+							"authors": "铃木先辈",
+							"status": "连载中",
+							"cover": "https://images.dmzj.com/webpic/2/jiaochuan20190512.jpg"
+						},
+						{
+							"id": 48434,
+							"title": "我的45姐是独一无二的！",
+							"authors": "千羽",
+							"status": "已完结",
+							"cover": "https://images.dmzj.com/webpic/1/45jiealaigaojiba0512.jpg"
+						},
+						{
+							"id": 48433,
+							"title": "恶魔人 冒险王版",
+							"authors": "永井豪/蛭田充",
+							"status": "连载中",
+							"cover": "https://images.dmzj.com/webpic/19/emorenmaoxianwangban11.jpg"
+						},
+						{
+							"id": 48432,
+							"title": "恋爱等级制",
+							"authors": "濑田せた",
+							"status": "连载中",
+							"cover": "https://images.dmzj.com/webpic/9/lianailv0512.jpg"
+						}
+					]
+				}
+			]
+		}
+	},
+	"http://v2.api.dmzj.com/comic/47195.json?": {
+		"expires": 1557686874649,
+		"data": {
+			"status": 200,
+			"statusText": "OK",
+			"headers": {
+				"server": "YunFanCDN",
+				"date": "Sun, 12 May 2019 18:32:58 GMT",
+				"content-type": "application/json",
+				"transfer-encoding": "chunked",
+				"connection": "close",
+				"x-cdn-reqid": "AEyxkCGPtDNhm2gAAQ",
+				"expires": "Sun, 12 May 2019 19:02:58 GMT",
+				"cache-control": "max-age=1800",
+				"accept-ranges": "bytes",
+				"vary": "Accept-Encoding",
+				"oct-response-info": "1000020000200002000880009000001",
+				"yf-id": "ajszj1u000182p, ajsyzab009197k",
+				"oct-upstream": "118.89.211.163,222.186.170.182"
+			},
+			"data": {
+				"id": 47195,
+				"islong": 2,
+				"direction": 1,
+				"title": "十岁的妈妈和我",
+				"is_dmzj": 0,
+				"cover": "https://images.dmzj.com/webpic/15/190124ssdmm.jpg",
+				"description": "买个菜的功夫妈妈就变成了小孩？",
+				"last_updatetime": 1555139174,
+				"copyright": 0,
+				"first_letter": "s",
+				"hot_num": 3669634,
+				"hit_num": 38025,
+				"uid": null,
+				"is_lock": 0,
+				"status": [
+					{
+						"tag_id": 2309,
+						"tag_name": "连载中"
+					}
+				],
+				"types": [
+					{
+						"tag_id": 3242,
+						"tag_name": "生活"
+					}
+				],
+				"authors": [
+					{
+						"tag_id": 16361,
+						"tag_name": "根雪れい"
+					}
+				],
+				"subscribe_num": 17397,
+				"chapters": [
+					{
+						"title": "连载",
+						"data": [
+							{
+								"chapter_id": 88138,
+								"chapter_title": "4话",
+								"updatetime": 1555139174,
+								"filesize": 606650,
+								"chapter_order": 40
+							},
+							{
+								"chapter_id": 88137,
+								"chapter_title": "3话",
+								"updatetime": 1555139158,
+								"filesize": 4934580,
+								"chapter_order": 30
+							},
+							{
+								"chapter_id": 86745,
+								"chapter_title": "2话",
+								"updatetime": 1550979477,
+								"filesize": 3733232,
+								"chapter_order": 20
+							},
+							{
+								"chapter_id": 85760,
+								"chapter_title": "1话",
+								"updatetime": 1548295576,
+								"filesize": 1622626,
+								"chapter_order": 10
+							}
+						]
+					}
+				],
+				"comment": {
+					"comment_count": 791,
+					"latest_comment": [
+						{
+							"comment_id": 15791898,
+							"uid": 106784510,
+							"content": "1",
+							"createtime": 1557676116,
+							"nickname": "摸鱼仔",
+							"avatar": "https://avatar.dmzj.com/84/23/8423981835df901c4396a505a65a4624.png"
+						},
+						{
+							"comment_id": 15791813,
+							"uid": 102528119,
+							"content": "十一区这类型的漫画好像还不少",
+							"createtime": 1557676051,
+							"nickname": "星野鹤见",
+							"avatar": "https://avatar.dmzj.com/31/71/3171d098e16e072fa0cb707808ead9d8.png"
+						}
+					]
+				}
+			}
+		}
+	},
+	"http://v2.api.dmzj.com/chapter/47195/85760.json?": {
+		"expires": 1557687443435,
+		"data": {
+			"status": 200,
+			"statusText": "OK",
+			"headers": {
+				"server": "YunFanCDN",
+				"date": "Sun, 12 May 2019 18:42:27 GMT",
+				"content-type": "application/json",
+				"transfer-encoding": "chunked",
+				"connection": "close",
+				"x-cdn-reqid": "AEyxkCGPuDNhpEvAAI",
+				"expires": "Sun, 12 May 2019 18:52:26 GMT",
+				"cache-control": "max-age=600",
+				"accept-ranges": "bytes",
+				"vary": "Accept-Encoding",
+				"oct-response-info": "1000040000400004000680007000001",
+				"yf-id": "ajszj1u005207p, ajsyzab009198k",
+				"oct-upstream": "118.89.211.163,222.186.170.158"
+			},
+			"data": {
+				"chapter_id": 85760,
+				"comic_id": 47195,
+				"title": "第01话",
+				"chapter_order": 10,
+				"direction": 1,
+				"page_url": [
+					"http://imgsmall.dmzj.com/s/47195/85760/0.jpg",
+					"http://imgsmall.dmzj.com/s/47195/85760/1.jpg",
+					"http://imgsmall.dmzj.com/s/47195/85760/2.jpg",
+					"http://imgsmall.dmzj.com/s/47195/85760/3.jpg",
+					"http://imgsmall.dmzj.com/s/47195/85760/4.jpg",
+					"http://imgsmall.dmzj.com/s/47195/85760/5.jpg",
+					"http://imgsmall.dmzj.com/s/47195/85760/6.jpg",
+					"http://imgsmall.dmzj.com/s/47195/85760/7.jpg",
+					"http://imgsmall.dmzj.com/s/47195/85760/8.jpg",
+					"http://imgsmall.dmzj.com/s/47195/85760/9.jpg",
+					"http://imgsmall.dmzj.com/s/47195/85760/10.jpg",
+					"http://imgsmall.dmzj.com/s/47195/85760/11.jpg",
+					"http://imgsmall.dmzj.com/s/47195/85760/12.jpg",
+					"http://imgsmall.dmzj.com/s/47195/85760/13.jpg",
+					"http://imgsmall.dmzj.com/s/47195/85760/14.jpg",
+					"http://imgsmall.dmzj.com/s/47195/85760/15.jpg"
+				],
+				"picnum": 16,
+				"comment_count": 136
+			}
+		}
+	},
+	"http://v2.api.dmzj.com/search/show/0/%E7%A5%9E/0.json?": {
+		"expires": 1557689729914,
+		"data": {
+			"status": 200,
+			"statusText": "OK",
+			"headers": {
+				"server": "YunFanCDN",
+				"date": "Sun, 12 May 2019 19:20:33 GMT",
+				"content-type": "application/json",
+				"transfer-encoding": "chunked",
+				"connection": "close",
+				"x-cdn-reqid": "AEyxkCGPuDNhyAXAAe",
+				"expires": "Sun, 12 May 2019 19:20:32 GMT",
+				"cache-control": "no-cache",
+				"accept-ranges": "bytes",
+				"vary": "Accept-Encoding",
+				"oct-response-info": "0000000000000000000560005600001",
+				"yf-id": "ajszj1u000183p, ajsyzab009198k",
+				"oct-upstream": "118.89.211.163,222.186.170.183"
+			},
+			"data": [
+				{
+					"id": 20926,
+					"status": "连载中",
+					"title": "妖神记",
+					"last_name": "第174话 回归（下）",
+					"cover": "https://images.dmzj.com/img/webpic/4/1447215436.jpg",
+					"authors": "踏雪动漫",
+					"types": "冒险/热血/奇幻",
+					"hot_hits": 2697908
+				},
+				{
+					"id": 16427,
+					"status": "连载中",
+					"title": "魔王与勇者与圣剑神殿",
+					"last_name": "第28话",
+					"cover": "https://images.dmzj.com/img/webpic/6/1462272056.jpg",
+					"authors": "阿 羊",
+					"types": "冒险/奇幻",
+					"hot_hits": 2587607
+				},
+				{
+					"id": 18715,
+					"status": "连载中",
+					"title": "请点我吧，主人！",
+					"last_name": "第16话",
+					"cover": "https://images.dmzj.com/img/webpic/19/1003821191454061325.jpg",
+					"authors": "神居动漫",
+					"types": "科幻/爱情/搞笑",
+					"hot_hits": 2267726
+				},
+				{
+					"id": 10142,
+					"status": "连载中",
+					"title": "不义联盟 人间之神",
+					"last_name": "二001",
+					"cover": "https://images.dmzj.com/webpic/10/buyilianmeng.jpg",
+					"authors": "DC Comics",
+					"types": "冒险",
+					"hot_hits": 2176754
+				},
+				{
+					"id": 12193,
+					"status": "已完结",
+					"title": "死神大人和4位女友",
+					"last_name": "最终话",
+					"cover": "https://images.dmzj.com/webpic/7/160202sishendarenfml.jpg",
+					"authors": "CHuN/巢山真",
+					"types": "欢乐向/爱情/校园/颜艺",
+					"hot_hits": 1561821
+				},
+				{
+					"id": 1929,
+					"status": "连载中",
+					"title": "第一神拳",
+					"last_name": "第118话",
+					"cover": "https://images.dmzj.com/webpic/4/diyishenquanxin.jpg",
+					"authors": "森川让次",
+					"types": "格斗",
+					"hot_hits": 1350645
+				},
+				{
+					"id": 1729,
+					"status": "已完结",
+					"title": "我的女神",
+					"last_name": "第48卷完",
+					"cover": "https://images.dmzj.com/webpic/12/xynsV2.jpg",
+					"authors": "藤岛康介",
+					"types": "爱情/魔法/高清单行",
+					"hot_hits": 920718
+				},
+				{
+					"id": 13489,
+					"status": "连载中",
+					"title": "作死大小姐",
+					"last_name": "第35话",
+					"cover": "https://images.dmzj.com/webpic/1/zuosidaxiaojiexin.jpg",
+					"authors": "下神木るこ",
+					"types": "欢乐向",
+					"hot_hits": 784324
+				},
+				{
+					"id": 9959,
+					"status": "已完结",
+					"title": "水神的新娘",
+					"last_name": "外传08话",
+					"cover": "https://images.dmzj.com/webpic/14/shuishendexinniang.jpg",
+					"authors": "尹美庚",
+					"types": "爱情",
+					"hot_hits": 758906
+				},
+				{
+					"id": 7149,
+					"status": "已完结",
+					"title": "妖怪绯扇",
+					"last_name": "番外篇三",
+					"cover": "https://images.dmzj.com/webpic/13/ygfs.jpg",
+					"authors": "熊谷杏子(くまがい杏子)",
+					"types": "神鬼/校园",
+					"hot_hits": 747798
+				}
+			]
+		}
+	}
+}

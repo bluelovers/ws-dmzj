@@ -79,3 +79,4 @@ vue.config.js.map
 coverage
 
 /*.tpl
+!/test/temp.cache.json
