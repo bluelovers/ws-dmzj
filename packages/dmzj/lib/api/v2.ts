@@ -93,7 +93,7 @@ export interface IDmzjJson<T>
 	data: T
 }
 
-export enum EnumNumberBoolean
+export const enum EnumNumberBoolean
 {
 	FALSE,
 	TRUE,

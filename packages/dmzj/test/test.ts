@@ -20,16 +20,21 @@ Bluebird.coroutine(function* ()
 
 	let rq = null
 		//|| usersApi.searchShow(EnumDmzjAcgnBigCatID.NOVEL, '神')
-		|| usersApi.searchShow(EnumDmzjAcgnBigCatID.COMIC, '神')
+		//|| usersApi.searchShow(EnumDmzjAcgnBigCatID.COMIC, '神2')
 		//|| usersApi.v3Recommend()
 		//|| usersApi.comicDetail(47195)
-		|| usersApi.comicContent(47195, 85760)
+		//|| usersApi.comicContent(47195, 85760)
+		// @ts-ignore
+		|| usersApi.novelRecentUpdate()
 		|| null
 	;
+
+	console.dir(rq);
 
 	yield resolveObservable(rq, {
 		next(ret)
 		{
+			// @ts-ignore
 			let info = infoFromAxiosResponse(ret);
 
 
@@ -47,6 +52,7 @@ Bluebird.coroutine(function* ()
 
 			//console.debug('request: %s', util.inspect(ret.request));
 
+			// @ts-ignore
 			console.debug('Next: %s', util.inspect(ret.data));
 		},
 	});

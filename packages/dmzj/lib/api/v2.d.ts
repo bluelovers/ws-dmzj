@@ -43,7 +43,7 @@ export interface IDmzjJson<T> {
     msg: EnumDmzjMsg | string;
     data: T;
 }
-export declare enum EnumNumberBoolean {
+export declare const enum EnumNumberBoolean {
     FALSE = 0,
     TRUE = 1
 }
